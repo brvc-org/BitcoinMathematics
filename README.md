@@ -13,3 +13,5 @@ https://en.m.wikipedia.org/wiki/Fast_inverse_square_root
 
 Reciprocal Square Root
 
+New BTC symbols for mathematics, algorithms, etc
+
